@@ -4,7 +4,7 @@ print("#     Script by ./H9x Hacker    #")
 print("#    Saudi Arabia Hackers   #")
 print("#####################################")
 import urllib.request
-url = ''
+url = 'here put the url website/هنا حط رابط الموقع'
 listw = ['/admin/','/admin22/','/login.php/','/wp-login.php/','/cpanel.php/']
 for i in listw:
 	curl = url+i
